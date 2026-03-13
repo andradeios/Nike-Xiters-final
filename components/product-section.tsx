@@ -299,7 +299,7 @@ const PRODUTOS = [
     preco: 199.99,
     precoAnim: "product-price-anim",
     categoria: "bypass",
-    img: "/gifs/DMA VIRTUAL ANIMADO.gif",
+    img: "/gifs/DMA VIRTUAL animado.gif",
     tipo: "unico",
     checkout: "https://go.plataformafortpay.com.br/iivbrrapzx"
   },
